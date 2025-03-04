@@ -11,11 +11,11 @@ Bienvenidos a
 Bienvenidos a la 
 
 4
-00:00:06,500 --> 00:00:7,000
+00:00:06,500 --> 00:00:07,000
 Bienvenidos a la Torre 
 
 5
-00:00:7,000 --> 00:00:14,000
+00:00:07,000 --> 00:00:14,000
 Bienvenidos a la Torre Dedshot
 
 6
