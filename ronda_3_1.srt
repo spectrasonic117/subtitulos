@@ -1,0 +1,7 @@
+1
+00:00:00,000 --> 00:00:03,000
+Estamos en la penúltima ronda
+
+2
+00:00:03,000 --> 00:00:06,000
+quienes serán los últimos 2 finalistas?

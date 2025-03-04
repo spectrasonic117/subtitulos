@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:03,000
+En esta zona encontraran las mesas
+
+2
+00:00:03,000 --> 00:00:06,000
+donde varios de ustedes decidirá su destino,
+
+3
+00:00:06,000 --> 00:00:09,000
+para jugar deben de dar click derecho a una silla
+
+4
+00:00:09,000 --> 00:00:12,000
+y los tomara como un participante
+
+5
+00:00:12,000 --> 00:00:15,000
+cuando una mesa llegue a 4 participantes
+
+6
+00:00:15,000 --> 00:00:18,000
+se bloqueará automáticamente
+
+7
+00:00:18,000 --> 00:00:21,000
+comenzará el juego 15seg después
