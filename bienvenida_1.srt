@@ -4,7 +4,7 @@ Bienvenidos
 
 2
 00:00:05,500 --> 00:00:06,000
-Bienvenidos a 
+Bienvenidos a
 
 3
 00:00:06,000 --> 00:00:06,500
@@ -27,31 +27,31 @@ Lugar
 Lugar donde 
 
 8
-00:00:15,500 --> 00:00:16,000
+00:00:15,000 --> 00:00:15,500
 Lugar donde se 
 
 9
-00:00:16,000 --> 00:00:16,500
+00:00:15,500 --> 00:00:16,000
 Lugar donde se jugaran 
 
 10
-00:00:16,500 --> 00:00:17,000
+00:00:16,000 --> 00:00:16,500
 Lugar donde se jugaran la 
 
 11
-00:00:17,000 --> 00:00:17,500
+00:00:16,500 --> 00:00:17,000
 Lugar donde se jugaran la vida
 
 12
-00:00:17,500 --> 00:00:18,000
+00:00:17,000 --> 00:00:17,500
 Lugar donde se jugaran la vida por
 
 13
-00:00:18,000 --> 00:00:18,500
+00:00:17,500 --> 00:00:18,000
 Lugar donde se jugaran la vida por unos 
 
 14
-00:00:18,500 --> 00:00:23,000
+00:00:18,000 --> 00:00:23,000
 Lugar donde se jugaran la vida por unos centavos.
 
 15
@@ -107,17 +107,17 @@ por que no disfrutamos de una pequeña
 por que no disfrutamos de una pequeña canción? 
 
 28
-00:00:37,000 --> 00:00:37,500
+00:00:39,000 --> 00:00:39,500
 con
 
 29
-00:00:37,500 --> 00:00:38,000
+00:00:39,500 --> 00:00:40,000
 con ustedes
 
 30
-00:00:38,000 --> 00:00:38,500
+00:00:40,000 --> 00:00:40,500
 con ustedes Ansi
 
 31
-00:00:38,500 --> 00:00:43,000
+00:00:40,500 --> 00:00:43,000
 con ustedes Ansi Chan…
