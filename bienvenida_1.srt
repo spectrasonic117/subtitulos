@@ -95,15 +95,15 @@ por que no disfrutamos
 por que no disfrutamos de
 
 25
-00:00:36,600 --> 00:00:36,500
+00:00:35,500 --> 00:00:36,000
 por que no disfrutamos de una 
 
 26
-00:00:36,500 --> 00:00:37,000
+00:00:36,000 --> 00:00:36,500
 por que no disfrutamos de una pequeña
 
 27
-00:00:37,000 --> 00:00:37,500
+00:00:36,500 --> 00:00:37,000
 por que no disfrutamos de una pequeña canción? 
 
 28
