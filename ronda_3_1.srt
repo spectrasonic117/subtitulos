@@ -1,7 +1,43 @@
 1
-00:00:00,000 --> 00:00:03,000
-Estamos en la penúltima ronda
+00:00:00,000 --> 00:00:00,200
+Estamos
 
 2
-00:00:03,000 --> 00:00:06,000
+00:00:00,200 --> 00:00:00,400
+Estamos en
+
+3
+00:00:00,400 --> 00:00:00,600
+Estamos en la
+
+4
+00:00:00,600 --> 00:00:00,800
+Estamos en la penúltima
+
+5
+00:00:00,800 --> 00:00:03,000
+Estamos en la penúltima ronda
+
+6
+00:00:03,000 --> 00:00:03,200
+quienes
+
+7
+00:00:03,200 --> 00:00:03,400
+quienes serán
+
+8
+00:00:03,400 --> 00:00:03,600
+quienes serán los
+
+9
+00:00:03,600 --> 00:00:03,800
+quienes serán los últimos
+
+10
+00:00:03,800 --> 00:00:04,000
+quienes serán los últimos 2
+
+11
+00:00:04,000 --> 00:00:06,000
 quienes serán los últimos 2 finalistas?

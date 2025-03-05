@@ -1,7 +1,51 @@
 1
-00:00:00,000 --> 00:00:03,000
-Por favor, jueguen con mas ingenio y traiciones
+00:00:00,000 --> 00:00:00,200
+Por 
 
 2
-00:00:03,000 --> 00:00:06,000
+00:00:00,200 --> 00:00:00,400
+Por favor,
+
+3
+00:00:00,400 --> 00:00:00,600
+Por favor, jueguen
+
+4
+00:00:00,600 --> 00:00:00,800
+Por favor, jueguen con
+
+5
+00:00:00,800 --> 00:00:01,000
+Por favor, jueguen con mas
+
+6
+00:00:01,000 --> 00:00:01,200
+Por favor, jueguen con mas ingenio
+
+7
+00:00:01,200 --> 00:00:01,400
+Por favor, jueguen con mas ingenio y
+
+8
+00:00:01,400 --> 00:00:03,000
+Por favor, jueguen con mas ingenio y traiciones
+
+9
+00:00:03,000 --> 00:00:03,200
+su
+
+10
+00:00:03,200 --> 00:00:03,400
+su vida
+
+11
+00:00:03,400 --> 00:00:03,600
+su vida esta
+
+12
+00:00:03,600 --> 00:00:03,800
+su vida esta en
+
+13
+00:00:03,800 --> 00:00:06,000
 su vida esta en juego

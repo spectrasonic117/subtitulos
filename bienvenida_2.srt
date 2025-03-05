@@ -1,11 +1,94 @@
 1
-00:00:00,000 --> 00:00:03,000
-Favor de dirigirse a la zona de los baños
+00:00:00,000 --> 00:00:00,200
+Favor
 
 2
-00:00:03,000 --> 00:00:06,000
-sigan el camino de luces para llegar a la
+00:00:00,200 --> 00:00:00,400 
+Favor de
 
 3
-00:00:06,000 --> 00:00:09,000
+00:00:00,400 --> 00:00:00,600 
+Favor de dirigirse
+
+4
+00:00:00,600 --> 00:00:00,800 
+Favor de dirigirse a
+
+5
+00:00:00,800 --> 00:00:01,000 
+Favor de dirigirse a la
+
+6
+00:00:01,000 --> 00:00:01,200
+Favor de dirigirse a la zona
+
+7
+00:00:01,200 --> 00:00:01,400
+Favor de dirigirse a la zona
+
+8
+00:00:01,400 --> 00:00:01,600 
+Favor de dirigirse a la zona de
+
+9
+00:00:01,600 --> 00:00:01,800 
+Favor de dirigirse a la zona de los
+
+10
+00:00:01,800 --> 00:00:03,000 
+Favor de dirigirse a la zona de los baños
+
+11
+00:00:03,000 --> 00:00:03,200
+sigan
+
+12
+00:00:03,200 --> 00:00:03,400
+sigan el
+
+13
+00:00:03,400 --> 00:00:03,200
+sigan el camino
+
+14
+00:00:03,600 --> 00:00:03,800
+sigan el camino de
+
+15
+00:00:03,800 --> 00:00:04,000
+sigan el camino de luces
+
+16
+00:00:04,000 --> 00:00:04,200 
+sigan el camino de luces para
+
+17
+00:00:04,200 --> 00:00:04,400
+
+18
+00:00:04,400 --> 00:00:04,600
+sigan el camino de luces para llegar
+
+19
+00:00:04,600 --> 00:00:04,800
+sigan el camino de luces para llegar a
+
+20
+00:00:05,000 --> 00:00:06,000
+sigan el camino de luces para llegar a la
+
+21
+00:00:06,000 --> 00:00:06,200
+primera
+
+22
+00:00:06,200 --> 00:00:06,400
+primera zona
+
+23
+00:00:06,400 --> 00:00:06,600
+primera zona de
+
+24
+00:00:06,600 --> 00:00:09,000
 primera zona de juego

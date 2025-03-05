@@ -1,7 +1,43 @@
 1
-00:00:00,000 --> 00:00:03,000
-Podemos continuar a la siguiente fase
+00:00:00,000 --> 00:00:00,200
+Podemos
 
 2
-00:00:03,000 --> 00:00:06,000
+00:00:00,200 --> 00:00:00,400
+Podemos continuar
+
+3
+00:00:00,400 --> 00:00:00,600
+Podemos continuar a
+
+4
+00:00:00,600 --> 00:00:00,800
+Podemos continuar a la
+
+5
+00:00:00,800 --> 00:00:01,000
+Podemos continuar a la siguiente
+
+6
+00:00:01,000 --> 00:00:03,000
+Podemos continuar a la siguiente fase
+
+7
+00:00:03,000 --> 00:00:03,200
+por
+
+8
+00:00:03,200 --> 00:00:03,400
+por favor
+
+9
+00:00:03,400 --> 00:00:03,600
+por favor sigan
+
+10
+00:00:03,600 --> 00:00:03,800
+por favor sigan las
+
+11
+00:00:03,800 --> 00:00:06,000
 por favor sigan las luces…
