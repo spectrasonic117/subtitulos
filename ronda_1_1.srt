@@ -149,8 +149,8 @@ cuando una mesa llegue a 4
 cuando una mesa llegue a 4 participantes
 
 36
-00:00:15,000 --> 00:00:18,200
-se 
+00:00:15,000 --> 00:00:15,200
+se
 
 36
 00:00:15,200 --> 00:00:15,400
