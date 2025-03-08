@@ -21,7 +21,7 @@ En esta zona encontraran
 00:00:01,000 --> 00:00:01,200
 
 7
-00:00:01,200 --> 00:00:01,400 
+00:00:01,200 --> 00:00:01,400
 En esta zona encontraran las
 
 8
