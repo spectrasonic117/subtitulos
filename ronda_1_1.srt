@@ -154,28 +154,28 @@ se
 
 36
 00:00:15,200 --> 00:00:15,400
-se bloqueará
+se bloqueara
 
 37
 00:00:15,400 --> 00:00:18,000
-se bloqueará automáticamente
+se bloqueara automáticamente
 
 38
 00:00:18,000 --> 00:00:18,200
-comenzará
+comenzara
 
 39
 00:00:18,200 --> 00:00:18,400
-comenzará el
+comenzara el
 
 39
 00:00:18,400 --> 00:00:18,600 
-comenzará el juego
+comenzara el juego
 
 40
 00:00:18,600 --> 00:00:18,800
-comenzará el juego 15seg
+comenzara el juego 15seg
 
 41
 00:00:18,800 --> 00:00:21,000 
-comenzará el juego 15seg después
+comenzara el juego 15seg después
