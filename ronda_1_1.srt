@@ -102,23 +102,23 @@ y
 
 25
 00:00:09,200 --> 00:00:09,400
-y deberan
+y deberán
 
 26
 00:00:09,400 --> 00:00:09,600
-y deberan hacer
+y deberán hacer
 
 27
 00:00:09,600 --> 00:00:09,800
-y deberan hacer click
+y deberán hacer click
 
 28
 00:00:09,800 --> 00:00:10,000
-y deberan hacer click en
+y deberán hacer click en
 
 29
 00:00:10,000 --> 00:00:12,000
-y deberan hacer click en aceptar
+y deberán hacer click en aceptar
 
 30
 00:00:12,000 --> 00:00:12,200
