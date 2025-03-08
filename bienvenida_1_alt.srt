@@ -16,7 +16,7 @@ Bienvenidos a la Torre
 
 5
 00:00:07,000 --> 00:00:14,000
-Bienvenidos a la Torre Dedshot
+Bienvenidos a la Torre Dedshow
 
 6
 00:00:14,000 --> 00:00:14,500
