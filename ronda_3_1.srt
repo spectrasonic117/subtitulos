@@ -20,24 +20,24 @@ Estamos en la penúltima ronda
 
 6
 00:00:03,000 --> 00:00:03,200
-quienes
+¿Quienes
 
 7
 00:00:03,200 --> 00:00:03,400
-quienes serán
+¿Quienes serán
 
 8
 00:00:03,400 --> 00:00:03,600
-quienes serán los
+¿Quienes serán los
 
 9
 00:00:03,600 --> 00:00:03,800
-quienes serán los últimos
+¿Quienes serán los últimos
 
 10
 00:00:03,800 --> 00:00:04,000
-quienes serán los últimos 2
+¿Quienes serán los últimos 2
 
 11
 00:00:04,000 --> 00:00:06,000
-quienes serán los últimos 2 finalistas?
+¿Quienes serán los últimos 2 finalistas?
