@@ -32,4 +32,4 @@ tomen asiento en la última
 
 9
 00:00:03,800 --> 00:00:06,001
-tomen asiento en la última mesa...
+tomen asiento en la última mesa.
