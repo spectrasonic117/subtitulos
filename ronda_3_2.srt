@@ -31,5 +31,5 @@ tomen asiento en la
 tomen asiento en la última
 
 9
-00:00:03,800 --> 00:00:06,100
-tomen asiento en la última mesa
+00:00:03,800 --> 00:00:06,000
+tomen asiento en la última mesa...
