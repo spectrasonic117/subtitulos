@@ -101,15 +101,15 @@ para jugar deben de dar click derecho a una silla
 y
 
 25
-00:00:09,200 --> 00:00:9,400
-y deberán
+00:00:09,200 --> 00:00:09,400
+y deberan
 
 26
-00:00:09,400 --> 00:00:9,600
+00:00:09,400 --> 00:00:09,600
 y deberan hacer
 
 27
-00:00:09,600 --> 00:00:9,800
+00:00:09,600 --> 00:00:09,800
 y deberan hacer click
 
 28
